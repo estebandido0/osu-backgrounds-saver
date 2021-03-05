@@ -19,14 +19,16 @@ def isPanoramic(ruta):
 
 # Revisa si se encuentra en la carpeta correcta.
 if (not os.path.exists('./Songs')):
-    sys.exit("No se encuentra la carpeta /Songs (contiene los beatmaps descargados).\nAsegurate de correr el programa en en mismo directorio que \"osu!.exe\"")
+    input("No se encuentra la carpeta /Songs (contiene los beatmaps descargados).\nAsegurate de correr el programa en en mismo directorio que \"osu!.exe\"\nPresiona ENTER para salir.")
+    sys.exit("")
 
 
 # Crea la carpeta en donde se almacenaran los fondos
 try:
     os.mkdir('./Backgrounds')
 except OSError:
-    sys.exit("No se pudo crear la carpeta \"/Backgrounds\" \nPorvafor revisa que no exista una carpeta con ese nombre en el directorio de osu!")
+    input("No se pudo crear la carpeta \"/Backgrounds\" \nPorvafor revisa que no exista una carpeta con ese nombre en el directorio de osu!\nPresiona ENTER para salir.")
+    sys.exit()
 
 
 k = 1 # Contador para evitar que se sobreescriban imagenes
@@ -58,6 +60,8 @@ try:
                 os.rename(os.path.join('./Backgrounds', file), "./Backgrounds/fondo"+str(k)+extension)
                 k = k+1
 except OSError:
-    sys.exit("Algo salio mal... \nAsegurate de cumplir todos los pasos en el repositorio del script.")
+    input("Algo salio mal... \nAsegurate de cumplir todos los pasos en el repositorio del script.\nPresiona ENTER para salir.")
+    sys.exit()
 
 print("Terminado!!\nSe guardaron " + str(k-1) + " imagenes en la carpeta \"/Backgrounds\"")
+input("Presiona ENTER para salir.")
