@@ -20,7 +20,7 @@ Actualmente el programa NO guarda las imagenes ubicadas en sub-carpetas de los b
    ![ejemplo](https://cdn.discordapp.com/attachments/736818438244270150/817528793114869790/unknown.png)
 3. Mover el ejecutable a la carpeta de osu!.
     * Copia el archivo **osu-backgounds-saver.exe** a la carpeta donde  
-    está ubicado **Osu.exe** como sale en la imagen.
+    está ubicado **Osu.exe** como sale en la imagen.  
     ![ejemplo2](https://cdn.discordapp.com/attachments/736818438244270150/817532065859764264/unknown.png)
 4. Ejecutar **osu-backgounds-saver.exe** y esperar a que se guarden las imagenes.
 5. Una vez terminado presiona **ENTER** para cerrar la consola de comandos.
