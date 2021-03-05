@@ -1,6 +1,6 @@
 ## Osu background saver
 
-Este script se usa para guardar todos los fondos de los mapas descargados en osu!.  
+Este script se usa para guardar(copiar) todos los fondos de los mapas descargados en osu!.  
 Está creado con [Pillow](https://github.com/python-pillow/Pillow) para identificacion de imagenes panoramicas, y [Pyinstaller](https://github.com/pyinstaller/pyinstaller)  
 para la creacion del ejecutable.  
 Todo el codigo se encuentra en el script [main.py](https://github.com/estebandido0/osu-backgrounds-saver/blob/master/main.py).
