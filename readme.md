@@ -7,16 +7,12 @@ Actualmente el programa NO guarda las imagenes ubicadas en sub-carpetas de los b
 
 ### Instrucciones
 
-1. Verificar dependencias:
-    * El script usa python3 y [Pillow](https://github.com/python-pillow/Pillow)
-2. Descargar el script y ubicar **main.py** en la carpeta de osu!
-    * Para acceder a ella se puede hacer clic derecho al acceso directo  
-    y despues hacer click a **"Abrir ubicacion del archivo"**
-3. Ejecutar el archivo de una de las siguientes formas:
-    * Hacer doble click al archivo y esperar a que se guarden las imagenes. (no recomendado)
-    * Ejecutar main.py mediante la consola de comandos.  
-    De esta forma se tiene respuesta a eventuales errores y confirmacion cuando el 
-    programa termina de ejecutarse.
-
+1. [Descargar el proyecto](https://github.com/estebandido0/osu-backgrounds-saver/archive/master.zip).
+2. Mover el ejecutable en la carpeta de osu!.
+    * Para acceder a ella se puede hacer clic derecho al acceso directo de osu! 
+    y despues hacer click a **"Abrir ubicacion del archivo"**.
+3. Ejecutar **osu-backgounds-saver.exe** y esperar a que se guarden las imagenes.
+4. Una vez terminado presiona **ENTER** para cerrar la consola de comandos.
+5. Finalmente puedes eliminar el ejecutable, mover y renombrar la carpeta **Backgrounds**.
 
     
