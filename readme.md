@@ -19,6 +19,10 @@ Actualmente el programa NO guarda las imagenes ubicadas en sub-carpetas de los b
 4. Una vez terminado presiona **ENTER** para cerrar la consola de comandos.
 5. Finalmente puedes eliminar el ejecutable, mover y renombrar la carpeta **Backgrounds**.
 
+
+En caso de no querer usar el archivo **.exe** puedes usar el programa ejecutando **main.py**  
+con python3 y las dependencias correspondientes.
+
     
 Ante cualquier problema no dudes en contactarme por discord. 
 Estebandido#1901
