@@ -24,7 +24,8 @@ Actualmente el programa NO guarda las imagenes ubicadas en sub-carpetas de los b
     ![ejemplo2](https://cdn.discordapp.com/attachments/736818438244270150/817532065859764264/unknown.png)
 4. Ejecutar **osu-backgounds-saver.exe** y esperar a que se guarden las imagenes.
 5. Una vez terminado presiona **ENTER** para cerrar la consola de comandos.
-6. Finalmente puedes eliminar el ejecutable, mover y renombrar la carpeta **Backgrounds**.
+6. Finalmente puedes eliminar el ejecutable, mover y renombrar la carpeta **Backgrounds**,  
+   la cual contiene todas las imagenes copiadas.
 
 
 En caso de no querer usar el archivo **.exe** puedes usar el programa ejecutando **main.py**  
