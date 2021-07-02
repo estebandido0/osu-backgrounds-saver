@@ -8,8 +8,6 @@ Todo el codigo se encuentra en el script [main.py](https://github.com/estebandid
 Cabe aclarar que el programa **NO** altera los archivos del juego y puede ser  
 eliminado totalmente despues de su uso.
 
-Actualmente el programa NO guarda las imagenes ubicadas en sub-carpetas de los beatmaps.
-
 
 ### Instrucciones
 
@@ -17,11 +15,11 @@ Actualmente el programa NO guarda las imagenes ubicadas en sub-carpetas de los b
 2. Abrir la carpeta donde está instalado osu.  
    * Para ello puedes hacer click derecho en el acceso directo de osu y  
    seleccionar **"Abrir ubicacion del archivo"**.  
-   ![ejemplo](https://cdn.discordapp.com/attachments/736818438244270150/817528793114869790/unknown.png)
+   ![ejemplo](https://i.imgur.com/qEdV6U7.png)
 3. Mover el ejecutable a la carpeta de osu!.
     * Copia el archivo **osu-backgounds-saver.exe** a la carpeta donde  
     está ubicado **Osu.exe** como sale en la imagen.  
-    ![ejemplo2](https://cdn.discordapp.com/attachments/736818438244270150/817532065859764264/unknown.png)
+    ![ejemplo2](https://i.imgur.com/LlsrydE.png)
 4. Ejecutar **osu-backgounds-saver.exe** y esperar a que se guarden las imagenes.
 5. Una vez terminado presiona **ENTER** para cerrar la consola de comandos.
 6. Finalmente puedes eliminar el ejecutable, mover y renombrar la carpeta **Backgrounds**.
